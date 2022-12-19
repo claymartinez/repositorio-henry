@@ -1,0 +1,17 @@
+1.
+    Variables:
+        Es la forma en la que vas a guardar en el compu lo que vas a utilizar despues. Para que en el futuro puedas darle un nombre a algo que vayas a usar necesitas llamarlo variable.
+
+    String:
+        Es un tipo de variable que significa cadena de caracteres, se utiliza comunmente para textos.
+
+    Funciones (argumento, return):
+        Las funciones son codigo que vamos a estar repitiendo, nos da mayor facilidad para volver a utilizar el codigo que ya escribimos y mantiene un codigo limpio con pocas lineas.
+
+    Declaraciones if:
+        Esto se utiliza para hacer comparaciones, if para cuando suceda algo, le agregaremos un parametro y else cuando no suceda, tambien llevara otro parametro. 
+        puede tener mas de 1 if, escribiendo else if. al final siempre debe terminar con else.
+
+    Valores booleanos (true, false)
+        Se utilizan para clasificar algo como cierto o falso. Podemos añadirle parametros para que haga acciones en base a si determina que es true o false.
+
